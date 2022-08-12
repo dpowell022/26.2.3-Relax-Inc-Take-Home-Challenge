@@ -19,9 +19,11 @@ Once I knew the adopted users, I could perform EDA to examine the relationships 
 
 Running a correlation heatmap analysis, it was found that there were few variables correlated to Adopted, but some positive correlations were defintely found and reported on. 
 
-![](/images/relax_inc.JPG)
-
----
 The full project report can be found [here](https://github.com/dpowell022/predicting-user-adoption/blob/main/Exercise%20Report.docx)
 
 The full notebook can be found [here](https://github.com/dpowell022/predicting-user-adoption/blob/main/relax%20inc%20takehome%20challenge.ipynb)
+
+---
+![](/images/relax_inc.JPG)
+
+
