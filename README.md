@@ -23,7 +23,8 @@ The full project report can be found [here](https://github.com/dpowell022/predic
 
 The full notebook can be found [here](https://github.com/dpowell022/predicting-user-adoption/blob/main/relax%20inc%20takehome%20challenge.ipynb)
 
----
 ![](/images/relax_inc.JPG)
 
-
+---
+### Future Scope
+Build a function for determining Adopted users which is less computationally expensive
